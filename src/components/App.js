@@ -6,12 +6,12 @@ import Search from "./Search";
 function App () {
     return (
         <div className="App">
-            <h1>This is the App component</h1>
-            <Container />
-            <Form />
-            <Search />
+        <h1>This is the App component</h1>
+        <Container />
+        <Form />
+        <Search />
         </div>
-    );
-};
+    )
+}
 
 export default App;
