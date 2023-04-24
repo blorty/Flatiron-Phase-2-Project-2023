@@ -13,136 +13,71 @@
             "id": "2",
             "type": "Film",
             "title": "Batman",
+            "director": "Tim Burton",
             "year": "1989",
-            "rating":"",
+            "rating":"pg-13",
             "actors": "Michael Keaton, Kim Bassinger, Jack Nicholson",
-            "image": "",
-        }
+            "image": "assets/batman.jpeg"
+        },
         {
             "id": "3",
-            "type": "",
-            "title": "",
-            "year": "",
+            "type": "Film",
+            "title": "Batman Returns",
+            "director": "Tim Burton",
+            "year": "1992",
             "rating":"",
             "actors": "",
-            "image": "",
-        }
+            "image": "assets/batmanForever.jpg"
+        },
         {
             "id": "4",
-            "type": "",
-            "title": "",
-            "year": "",
+            "type": "Film",
+            "title": "Batman Forever",
+            "director": "Joel Schumacher",
+            "year": "1995",
             "rating":"",
             "actors": "",
-            "image": "",
-        }
+            "image": "assets/batmanForever.jpg"
+        },
         {
             "id": "5",
-            "type": "",
-            "title": "",
-            "year": "",
+            "type": "Film",
+            "title": "Batman and Robin",
+            "director": "Joel Schumacher",
+            "year": "1997",
             "rating":"",
             "actors": "",
-            "image": "",
-        }
+            "image": "assets/batmanAndRobin.jpeg"
+        },
         {
             "id": "6",
-            "type": "",
-            "title": "",
-            "year": "",
+            "type": "Film",
+            "title": "Batman Begins",
+            "director": "Christopher Nolan",
+            "year": "2005",
             "rating":"",
             "actors": "",
-            "image": "",
-        }
+            "image": "assets/batmanBegins.jpeg"
+        },
         {
-            "id": "",
-            "type": "",
-            "title": "",
-            "year": "",
+            "id": "7",
+            "type": "Film",
+            "title": "The Dark Knight",
+            "director": "Christopher Nolan",
+            "year": "2008",
             "rating":"",
             "actors": "",
-            "image": "",
-        }
+            "image": "assets/theDarkKnight.jpeg"
+        },
         {
-            "id": "",
-            "type": "",
-            "title": "",
-            "year": "",
+            "id": "8",
+            "type": "Film",
+            "title": "The Dark Knight Rises",
+            "director": "Christopher Nolan",
+            "year": "2012",
             "rating":"",
             "actors": "",
-            "image": "",
-        }
-        {
-            "id": "",
-            "type": "",
-            "title": "",
-            "year": "",
-            "rating":"",
-            "actors": "",
-            "image": "",
-        }
-        {
-            "id": "",
-            "type": "",
-            "title": "",
-            "year": "",
-            "rating":"",
-            "actors": "",
-            "image": "",
-        }
-        {
-            "id": "",
-            "type": "",
-            "title": "",
-            "year": "",
-            "rating":"",
-            "actors": "",
-            "image": "",
-        }
-        {
-            "id": "",
-            "type": "",
-            "title": "",
-            "year": "",
-            "rating":"",
-            "actors": "",
-            "image": "",
-        }
-        {
-            "id": "",
-            "type": "",
-            "title": "",
-            "year": "",
-            "rating":"",
-            "actors": "",
-            "image": "",
-        }
-        {
-            "id": "",
-            "type": "",
-            "title": "",
-            "year": "",
-            "rating":"",
-            "actors": "",
-            "image": "",
-        }
-        {
-            "id": "",
-            "type": "",
-            "title": "",
-            "year": "",
-            "rating":"",
-            "actors": "",
-            "image": "",
-        }
-        {
-            "id": "",
-            "type": "",
-            "title": "",
-            "year": "",
-            "rating":"",
-            "actors": "",
-            "image": "",
+            "image": "assets/theDarkKnightRises.jpg"
         }
     ]
 }
